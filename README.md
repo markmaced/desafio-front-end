@@ -1,6 +1,8 @@
-# vue-project
+# Desafio - OW interactive
 
-This template should help get you started developing with Vue 3 in Vite.
+Desafio realizado em VueJS
+
+https://desafio.zpixel.com.br/
 
 ## Recommended IDE Setup
 
